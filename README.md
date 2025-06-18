@@ -24,7 +24,7 @@ The goal of this analysis is to:
 - Highlight players who may be undervalued or underperforming due to luck or small sample sizes.
 
 Players like **Jonathan Aranda**, **Jerar Encarnacion**, and **Dominic Canzone** were identified as potential breakout candidates based on their strong underlying metrics and model performance. 
-Aranda was highlighted in part due to his success again in 2025, while the Encarnacion and Canzone were identified due to the potential based on the model, despite limited playing opportunities this season.
+Aranda was highlighted in part due to his success again in 2025, while Encarnacion and Canzone were identified due to their potential based on the model, despite limited playing opportunities this season.
 
 ## Tools Used
 
